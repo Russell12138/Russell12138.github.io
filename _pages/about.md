@@ -16,11 +16,13 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am Yuzhong Chen, currently an undergraduate at the Univeristy of Liverpool. My research interests include Machine Learning, Natural Language Processing, Multimodal Large Language Model, Embodied Artificial Intelligence.
+I am Yuzhong \(*Russell*\) Chen, currently a senior at the Univeristy of Liverpool. My research interests include Machine Learning, Natural Language Processing, Multimodal Large Language Model, and Robotics.
 
 I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean of School of Computer Science and Informatics, University of Liverpool\). I am in close collaboration with [Asst. Prof. Qiyi Tang](https://sites.google.com/view/qiyitang/) and [Asst. Prof. Tulika Saha](https://sahatulika15.github.io) \(University of Liverpool\). Additionally, I have worked under the mentorship of [Assoc. Prof. Zengchang Qin](https://shi.buaa.edu.cn/zcqin/zh_CN/index.htm) \(Beihang University\), and Mr.Yezhou Chen \(Tech Lead, Shanghai Institute of Computing Technology\).
 
 CV available at [English](cv_english.pdf), [Chinese](cv_chinese.pdf). Technical Portfolio available at [View PDF](portfolio.pdf).
+
+Love of my life: Taylor Swift & Pidan \(my dog\).
 
 <span class='anchor' id='educations'></span>
 # 📖 Educations
