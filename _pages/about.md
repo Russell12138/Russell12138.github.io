@@ -22,16 +22,18 @@ I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean
 
 CV available at [English](cv_english.pdf), [Chinese](cv_chinese.pdf). Technical Portfolio available at [View PDF](portfolio.pdf).
 
+<span class='anchor' id='educations'></span>
 # 📖 Educations
 - *2026.08 - 2028.06*, MS Computer Science, Northwestern University, USA
 - *2022.09 - 2026.06*, BSc Computer Science, University of Liverpool, UK
 
+<span class='anchor' id='honors-awards'></span>
 # 🎖 Honors and Awards
 - *2025.06* EPSRC-funded Summer Research Assistantship, University of Liverpool
 - *2024.10* Top 50 Excellence Award (UoL Tuition Fee Discount: £7000 per year) 
 
+<span class='anchor' id='publications'></span>
 # 📝 Publications 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Multimedia 2026</div><img src='images/paper3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -78,8 +80,8 @@ CV available at [English](cv_english.pdf), [Chinese](cv_chinese.pdf). Technical 
 
 
 
+<span class='anchor' id='development'></span>
 # 🔧 Development
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIHire Platform</div><img src='images/development1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -96,6 +98,7 @@ CV available at [English](cv_english.pdf), [Chinese](cv_chinese.pdf). Technical 
 
 
 
+<span class='anchor' id='internships'></span>
 # 💻 Internships
 
 <div style="display:flex; align-items:center; width:100%; margin:20px 0;">
