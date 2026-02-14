@@ -87,6 +87,11 @@
 
 }
 
+/* Remove bottom border from last publication item */
+.paper-box:last-of-type {
+  border-bottom: none;
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
