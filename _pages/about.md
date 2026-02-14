@@ -23,8 +23,8 @@ I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean
 Technical Portfolio available at [View PDF](portfolio.pdf). CV available at [English](cv_english.pdf), [Chinese](cv_chinese.pdf).
 
 # 📖 Educations
-- *2024.09 - now*, Undergraduate, University of Liverpool, UK
-- *2022.09 - 2024.07*, Undergraduate, Xi'an Jiaotong-Liverpool University, China
+- *2026.08 - 2028.06*, MS Computer Science, Northwestern University, USA
+- *2022.09 - 2026.06*, BSc Computer Science, University of Liverpool, UK
 
 # 🎖 Honors and Awards
 - *2025.06* EPSRC-funded Summer Research Assistantship, University of Liverpool
