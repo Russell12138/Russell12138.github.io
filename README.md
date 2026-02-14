@@ -1,72 +1,134 @@
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
-<h1 align="center">
-AcadHomepage
-</h1>
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<div align="center">
+<span class='anchor' id='about-me'></span>
+I am Yuzhong Chen, currently an undergraduate at the Univeristy of Liverpool. My research interests include Machine Learning, Natural Language Processing, Multimodal Large Language Model, Embodied Artificial Intelligence.
 
-[![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/forks/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/issues/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io/blob/main/LICENSE)  | [中文文档](./docs/README-zh.md) 
+I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean of School of Computer Science and Informatics, University of Liverpool\). I am in close collaboration with [Asst. Prof. Qiyi Tang](https://sites.google.com/view/qiyitang/) and [Asst. Prof. Tulika Saha](https://sahatulika15.github.io) \(University of Liverpool\). Additionally, I have worked under the mentorship of [Assoc. Prof. Zengchang Qin](https://shi.buaa.edu.cn/zcqin/zh_CN/index.htm) \(Beihang University\), and Mr.Yezhou Chen \(Tech Lead, Shanghai Institute of Computing Technology\).
+
+CV available at [English](cv_english.pdf), [Chinese](cv_chinese.pdf). Technical Portfolio available at [View PDF](portfolio.pdf).
+
+<span class='anchor' id='educations'></span>
+# 📖 Educations
+- *2026.08 - 2028.06*, MS Computer Science, Northwestern University, USA
+- *2022.09 - 2026.06*, BSc Computer Science, University of Liverpool, UK
+
+<span class='anchor' id='honors-awards'></span>
+# 🎖 Honors and Awards
+- *2025.06* EPSRC-funded Summer Research Assistantship, University of Liverpool
+- *2024.10* Top 50 Excellence Award (UoL Tuition Fee Discount: £7000 per year) 
+
+<span class='anchor' id='publications'></span>
+# 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Multimedia 2026</div><img src='images/paper3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Modular Expert Routing System in Large Language Models: Efficiency, Specialization, and Cross-Domain Generalization]()
+
+**Yuzhong Chen**, Boris Konev<sup>*</sup>
+
+*to be submitted*
+
+[**Project**](https://github.com/Russell12138/Modular-Expert-Routing-vs.-Unified-Fine-tuning-in-LLM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Compare both fine-tuning approaches, aiming to comprehensively assess the trade-offs between downstream performance, training cost, and inference efficiency.
+</div>
 </div>
 
-<p align="center">A Modern and Responsive Academic Personal Homepage</p>
 
-<p align="center">
-    <br>
-    <img src="docs/screenshot.png" width="100%"/>
-    <br>
-</p>
 
-Some examples:
-- [Demo Page](https://rayeren.github.io/acad-homepage.github.io/)
-- [Personal Homepage of the author](https://rayeren.github.io/)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-## Key Features
-- **Automatically update google scholar citations**: using the google scholar crawler and github action, this REPO can update the author citations and publication citations automatically.
-- **Support Google analytics**: you can trace the traffics of your homepage by easy configuration.
-- **Responsive**: this homepage automatically adjust for different screen sizes and viewports.
-- **Beautiful and Simple Design**: this homepage is beautiful and simple, which is very suitable for academic personal homepage.
-- **SEO**: search Engine Optimization (SEO) helps search engines find the information you publish on your homepage easily, then rank it against similar websites.
+[Empirical Study of Modal Injection Order on Downstream Performance]()
 
-## Quick Start
+**Yuzhong Chen**, Tianyuan Tan, Aaryan Antala, Shrey Salaria, Qiyi Tang<sup>*</sup>, Tulika Saha<sup>*</sup>
 
-1. Fork this REPO and rename to `USERNAME.github.io`, where `USERNAME` is your github USERNAME.
-1. Configure the google scholar citation crawler:
-    1. Find your google scholar ID in the url of your google scholar page (e.g., https://scholar.google.com/citations?user=SCHOLAR_ID), where `SCHOLAR_ID` is your google scholar ID.
-    1. Set GOOGLE_SCHOLAR_ID variable to your google scholar ID in `Settings -> Secrets -> Actions -> New repository secret` of the REPO website with `name=GOOGLE_SCHOLAR_ID` and `value=SCHOLAR_ID`.
-    1. Click the `Action` of the REPO website and enable the workflows by clicking *"I understand my workflows, go ahead and enable them"*. This github action will generate google scholar citation stats data `gs_data.json` in `google-scholar-stats` branch of your REPO. When you update your main branch, this action will be triggered. This action will also be trigger 08:00 UTC everyday.
-1. Generate favicon using [favicon-generator](https://redketchup.io/favicon-generator) and download all generated files to `REPO/images`.
-1. Modify the configuration of your homepage `_config.yml`:
-    1. `title`: the title of your homepage
-    1. `description`: the description of your homepage
-    1. `repository`: USER_NAME/REPO_NAME  
-    1. `google_analytics_id` (optional): google analytics ID
-    1. SEO Related keys (optional): get these keys from search engine consoles (e.g. Google, Bing and Baidu) and paste here.
-    1. `author`: the author information of this homepage, including some other websites, emails, city and univeristy.
-    1. More configuration details are described in the comments.
-1. Add your homepage content in `_pages/about.md`.
-    1. You can use html+markdown syntax just same as jekyll.
-    1. You can use a `<span>` tag with class `show_paper_citations` and attribute `data` to display the citations of your paper. Set the data to the google scholar paper ID. For
-        ```html
-        <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
-        ``` 
-        > Q: How to get the google scholar paper ID?   
-        > A: Enter your google scholar homepage and click the paper name. Then you can see the paper ID from `citation_for_view=XXXX`, where `XXXX` is the required paper ID.
-1. Your page will be published at `https://USERNAME.github.io`.
+*under review*
 
-## Debug Locally
+[**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Propose Multimodal Order-aware Controlled Architecture for Multimodal LLMs namely MOCA-MLLM, and conduct a large-scale, controlled study on how modality injection order affects fine-tuning behavior and performance in MLLMs.
+</div>
+</div>
 
-1. Clone your REPO to local using `git clone`.
-1. Install Jekyll building environment, including `Ruby`, `RubyGems`, `GCC` and `Make` following [the installation guide](https://jekyllrb.com/docs/installation/#requirements).
-1. Run `bash run_server.sh` to start Jekyll livereload server.
-1. Open http://127.0.0.1:4000 in your browser.
-1. If you change the source code of the website, the livereload server will automatically refresh.
-1. When you finish the modification of your homepage, `commit` your changings and `push` to your remote REPO using `git` command.
 
-# Acknowledges
 
-- AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
-- AcadHomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
-- AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CONF-SPML 2024</div><img src='images/paper1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[An analysis of attention mechanisms and its variance in transformer](https://www.ewadirect.com/proceedings/ace/article/view/10938/pdf)
+
+**Yuzhong Chen**, Hongren Pu, Yang Qu<sup>*</sup>
+
+[**Project**](https://www.ewadirect.com/proceedings/ace/article/view/10938) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Analyze Transformer variants, focusing on linear complexity and sparse attention to reduce complexity, multi-head self-attention and low rank to improve performance.
+</div>
+</div>
+
+
+
+<span class='anchor' id='development'></span>
+# 🔧 Development
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIHire Platform</div><img src='images/development1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AIHire: An Intelligent Recruitment Platform with AI-Assisted Decision Support]()
+
+**Yuzhong Chen**
+
+*System Engineering & AI Integration*
+
+[**Project**](https://github.com/Russell12138/AIHire_platform) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Designed and implemented a large-scale intelligent recruitment platform supporting applicants, recruiters, and administrators, with AI-assisted modules including conversational agents, resume parsing, and candidate–job matching within a modular service-oriented architecture.
+</div>
+</div>
+
+
+
+<span class='anchor' id='internships'></span>
+# 💻 Internships
+
+<div style="display:flex; align-items:center; width:100%; margin:20px 0;">
+
+  <div style="flex:1; text-align:left;">
+    <img src="images/uol_logo.png" alt="University of Liverpool Logo" 
+         style="max-width:120px; width:40%; border-radius:6px; box-shadow:2px 2px 6px rgba(0,0,0,0.15);">
+  </div>
+
+  <div style="flex:1; text-align:left;">
+    <strong>University of Liverpool</strong><br>
+    <em>EPSRC-Funded Research Assistant</em><br>
+    <span style="color:#555;"><em>2025.06 – 2025.08</em></span>
+  </div>
+
+</div>
+
+
+
+<div style="display:flex; align-items:center; width:100%; margin:20px 0;">
+
+  <div style="flex:1; text-align:left;">
+    <img src="images/sict_logo.jpeg" alt="SICT Logo" 
+         style="max-width:120px; width:40%; border-radius:6px; box-shadow:2px 2px 6px rgba(0,0,0,0.15);">
+  </div>
+
+  <div style="flex:1; text-align:left;">
+    <strong>Shanghai Institute of Computing Technology</strong><br>
+    <em>Research & Development Center Intern</em><br>
+    <span style="color:#555;"><em>2024.07 – 2024.09</em></span>
+  </div>
+
+</div>
