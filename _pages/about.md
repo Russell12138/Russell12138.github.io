@@ -27,8 +27,8 @@ Technical Portfolio available at [View PDF](portfolio.pdf)
 - *2022.09 - 2024.07*, Undergraduate, Xi'an Jiaotong-Liverpool University, China
 
 # 🎖 Honors and Awards
-- *2024.10* Top 50 Excellence Award (UoL Tuition Fee Discount: £7000 per year) 
 - *2025.06* EPSRC-funded Summer Research Assistantship, University of Liverpool
+- *2024.10* Top 50 Excellence Award (UoL Tuition Fee Discount: £7000 per year) 
 
 # 📝 Publications 
 
