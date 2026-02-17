@@ -20,13 +20,10 @@ I am Yuzhong \(*Russell*\) Chen, currently a senior at the Univeristy of Liverpo
 
 I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean of School of Computer Science and Informatics, University of Liverpool\). I am in close collaboration with [Asst. Prof. Qiyi Tang](https://sites.google.com/view/qiyitang/) and [Asst. Prof. Tulika Saha](https://sahatulika15.github.io) \(University of Liverpool\). Additionally, I have worked under the mentorship of [Assoc. Prof. Zengchang Qin](https://shi.buaa.edu.cn/zcqin/zh_CN/index.htm) \(Beihang University\), and Mr. Yezhou Chen \(Tech Lead, Shanghai Institute of Computing Technology\).
 
-Perspective graduate student at Northwestern Univeristy, actively seeking research collaborations and conversations of any kind.
-
 CV available at [English](cv_english.pdf), [Chinese](cv_chinese.pdf). Technical Portfolio available at [View PDF](portfolio.pdf).
 
 <span class='anchor' id='educations'></span>
 # 📖 Educations
-- *2026.08 - 2028.06*, MS Computer Science, Northwestern University, USA
 - *2022.09 - 2026.06*, BSc Computer Science, University of Liverpool, UK
 
 <span class='anchor' id='honors-awards'></span>
