@@ -16,31 +16,46 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am Yuzhong \(*Russell*\) Chen, currently a senior at the Univeristy of Liverpool. My research interests include Machine Learning, Natural Language Processing, Multimodal Large Language Model, and Robotics.
+I am Yuzhong Chen, currently an undergraduate at the Univeristy of Liverpool. My research interests include Machine Learning, Natural Language Processing, Multimodal Large Language Model, Embodied Artificial Intelligence.
 
-I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean of School of Computer Science and Informatics, University of Liverpool\). I am in close collaboration with [Asst. Prof. Qiyi Tang](https://sites.google.com/view/qiyitang/) and [Asst. Prof. Tulika Saha](https://sahatulika15.github.io) \(University of Liverpool\). Additionally, I have worked under the mentorship of [Assoc. Prof. Zengchang Qin](https://shi.buaa.edu.cn/zcqin/zh_CN/index.htm) \(Beihang University\), and Mr. Yezhou Chen \(Tech Lead, Shanghai Institute of Computing Technology\).
+I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean of School of Computer Science and Informatics, University of Liverpool\). I am in close collaboration with [Asst. Prof. Qiyi Tang](https://sites.google.com/view/qiyitang/) and [Asst. Prof. Tulika Saha](https://sahatulika15.github.io) \(University of Liverpool\). Additionally, I have worked under the mentorship of [Assoc. Prof. Zengchang Qin](https://shi.buaa.edu.cn/zcqin/zh_CN/index.htm) \(Beihang University\), and Mr.Yezhou Chen \(Tech Lead, Shanghai Institute of Computing Technology\).
 
-CV available at [English](Yuzhong Chen CV.pdf), [Chinese](陈誉中-简历-1.pdf). Technical Portfolio available at [View PDF](portfolio.pdf).
+CV available at [English](Yuzhong_Chen_CV.pdf), [Chinese](陈誉中-简历.pdf). Technical Portfolio available at [View PDF](portfolio.pdf).
 
 <span class='anchor' id='educations'></span>
 # 📖 Educations
+- *2027.08 - 2029.05*, MS Robotic Systems Development, Carnegie Mellon University, USA
 - *2022.09 - 2026.06*, BSc Computer Science, University of Liverpool, UK
 
 <span class='anchor' id='honors-awards'></span>
 # 🎖 Honors and Awards
+- *2026.07* Dean's List, University of Liverpool
+- *2026.07* Computer Science Departmental Prize, University of Liverpool
 - *2025.06* EPSRC-funded Summer Research Assistantship, University of Liverpool
-- *2024.10* Top 50 Excellence Award (UoL Tuition Fee Discount: £7000 per year) 
+- *2024.10* XJTLU Excellence Award (UoL Tuition Fee Discount: £7000 per year)
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Multimedia 2026</div><img src='images/paper3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2027</div><img src='500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RG-TAIL: Reliability-Gated Trust-Aware Imagination Learning]()
+
+**Yuzhong Chen**
+
+*to be submitted*
+
+[**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- RG-TAIL reveals that synthetic experience is not universally beneficial and introduces a reliability-gated framework to selectively incorporate imagined transitions for more robust learning under data scarcity.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Final Year Project</div><img src='images/paper3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Modular Expert Routing System in Large Language Models: Efficiency, Specialization, and Cross-Domain Generalization]()
 
 **Yuzhong Chen**, Boris Konev<sup>*</sup>
-
-*to be submitted*
 
 [**Project**](https://github.com/Russell12138/Modular-Expert-Routing-vs.-Unified-Fine-tuning-in-LLM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Compare both fine-tuning approaches, aiming to comprehensively assess the trade-offs between downstream performance, training cost, and inference efficiency.
@@ -49,16 +64,16 @@ CV available at [English](Yuzhong Chen CV.pdf), [Chinese](陈誉中-简历-1.pdf
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2027</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Empirical Study of Modal Injection Order on Downstream Performance]()
+[Sequence Matters: A Controlled Study of Modality Injection Order in Multimodal LLMs]()
 
 **Yuzhong Chen**, Tianyuan Tan, Aaryan Antala, Shrey Salaria, Qiyi Tang<sup>*</sup>, Tulika Saha<sup>*</sup>
 
 *under review*
 
-[**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://anonymous.4open.science/r/MOCA-MLLM-1D89/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Propose Multimodal Order-aware Controlled Architecture for Multimodal LLMs namely MOCA-MLLM, and conduct a large-scale, controlled study on how modality injection order affects fine-tuning behavior and performance in MLLMs.
 </div>
 </div>
