@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am Yuzhong Chen, currently on a gap year. My research interests include Natural Language Processing, Multimodal Large Language Model, Reinforcement Learning, and World Model.
+I am Yuzhong Chen, currently on a gap year. My research interests include Natural Language Processing, Multimodal Large Language Model, Reinforcement Learning, and World Model. I admire elegant architectural designs that balance effectiveness and efficiency while advancing both.
 
 I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean of School of Computer Science and Informatics, University of Liverpool\). I am in close collaboration with [Asst. Prof. Qiyi Tang](https://sites.google.com/view/qiyitang/), [Asst. Prof. Tulika Saha](https://sahatulika15.github.io) and [Prof. Danushka Bollegala](https://danushka.net) \(University of Liverpool\).
 
@@ -41,7 +41,7 @@ CV available at [English](Yuzhong_Chen_CV.pdf), [Chinese](陈誉中-简历.pdf).
 
 [RG-TAIL: Reliability-Gated Trust-Aware Imagination Learning]()
 
-**Yuzhong Chen**
+**Yuzhong Chen**, Danushka Bollegala<sup>*</sup>
 
 *to be submitted*
 
