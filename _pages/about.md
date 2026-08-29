@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 I am Yuzhong Chen, currently an undergraduate at the Univeristy of Liverpool. My research interests include Machine Learning, Natural Language Processing, Multimodal Large Language Model, Embodied Artificial Intelligence.
 
-I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean of School of Computer Science and Informatics, University of Liverpool\). I am in close collaboration with [Asst. Prof. Qiyi Tang](https://sites.google.com/view/qiyitang/) and [Asst. Prof. Tulika Saha](https://sahatulika15.github.io) \(University of Liverpool\). Additionally, I have worked under the mentorship of [Assoc. Prof. Zengchang Qin](https://shi.buaa.edu.cn/zcqin/zh_CN/index.htm) \(Beihang University\), and Mr.Yezhou Chen \(Tech Lead, Shanghai Institute of Computing Technology\).
+I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean of School of Computer Science and Informatics, University of Liverpool\). I am in close collaboration with [Asst. Prof. Qiyi Tang](https://sites.google.com/view/qiyitang/), [Asst. Prof. Tulika Saha](https://sahatulika15.github.io) and [Prof. Danushka Bollegala](https://danushka.net) \(University of Liverpool\).
 
 CV available at [English](Yuzhong_Chen_CV.pdf), [Chinese](陈誉中-简历.pdf). Technical Portfolio available at [View PDF](portfolio.pdf).
 
@@ -114,6 +114,24 @@ CV available at [English](Yuzhong_Chen_CV.pdf), [Chinese](陈誉中-简历.pdf).
 
 <span class='anchor' id='internships'></span>
 # 💻 Internships
+
+
+<div style="display:flex; align-items:center; width:100%; margin:20px 0;">
+
+  <div style="flex:1; text-align:left;">
+    <img src="images/uol_logo.png" alt="University of Liverpool Logo" 
+         style="max-width:120px; width:40%; border-radius:6px; box-shadow:2px 2px 6px rgba(0,0,0,0.15);">
+  </div>
+
+  <div style="flex:1; text-align:left;">
+    <strong>University of Liverpool</strong><br>
+    <em>Honorary Research Assistant</em><br>
+    <span style="color:#555;"><em>2026.08 – Now</em></span>
+  </div>
+
+</div>
+
+
 
 <div style="display:flex; align-items:center; width:100%; margin:20px 0;">
 
