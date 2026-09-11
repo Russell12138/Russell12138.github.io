@@ -36,7 +36,7 @@ CV available at [English](Yuzhong_Chen_CV.pdf), [Chinese](陈誉中-简历.pdf).
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2027</div><img src='500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2027</div><img src='images/paper4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RG-TAIL: Reliability-Gated Trust-Aware Imagination Learning]()
@@ -45,10 +45,14 @@ CV available at [English](Yuzhong_Chen_CV.pdf), [Chinese](陈誉中-简历.pdf).
 
 *to be submitted*
 
-[**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://anonymous.4open.science/r/RG-TAIL-C7F8/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - RG-TAIL reveals that synthetic experience is not universally beneficial and introduces a reliability-gated framework to selectively incorporate imagined transitions for more robust learning under data scarcity.
 </div>
 </div>
+
+
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Final Year Project</div><img src='images/paper3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -64,19 +68,23 @@ CV available at [English](Yuzhong_Chen_CV.pdf), [Chinese](陈誉中-简历.pdf).
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2027</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2027</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Sequence Matters: A Controlled Study of Modality Injection Order in Multimodal LLMs]()
 
 **Yuzhong Chen**, Tianyuan Tan, Aaryan Antala, Shrey Salaria, Qiyi Tang<sup>*</sup>, Tulika Saha<sup>*</sup>
 
-*under review*
+*to be submitted*
 
 [**Project**](https://anonymous.4open.science/r/MOCA-MLLM-1D89/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Propose Multimodal Order-aware Controlled Architecture for Multimodal LLMs namely MOCA-MLLM, and conduct a large-scale, controlled study on how modality injection order affects fine-tuning behavior and performance in MLLMs.
 </div>
 </div>
+
+
 
 
 
@@ -114,6 +122,23 @@ CV available at [English](Yuzhong_Chen_CV.pdf), [Chinese](陈誉中-简历.pdf).
 
 <span class='anchor' id='internships'></span>
 # 💻 Internships
+
+
+<div style="display:flex; align-items:center; width:100%; margin:20px 0;">
+
+  <div style="flex:1; text-align:left;">
+    <img src="images/ubtech_logo.png" alt="UBTech Logo" 
+         style="max-width:120px; width:40%; border-radius:6px; box-shadow:2px 2px 6px rgba(0,0,0,0.15);">
+  </div>
+
+  <div style="flex:1; text-align:left;">
+    <strong>UBTech Robotics Research Institute</strong><br>
+    <em>Embodied Foundation Model Department Intern</em><br>
+    <span style="color:#555;"><em>2026.09 – Now</em></span>
+  </div>
+
+</div>
+
 
 
 <div style="display:flex; align-items:center; width:100%; margin:20px 0;">
