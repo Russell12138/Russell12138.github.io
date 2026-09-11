@@ -45,7 +45,7 @@ CV available at [English](Yuzhong_Chen_CV.pdf), [Chinese](陈誉中-简历.pdf).
 
 *to be submitted*
 
-[**Project**](https://anonymous.4open.science/r/RG-TAIL-C7F8/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - RG-TAIL reveals that synthetic experience is not universally beneficial and introduces a reliability-gated framework to selectively incorporate imagined transitions for more robust learning under data scarcity.
 </div>
 </div>
@@ -79,7 +79,7 @@ CV available at [English](Yuzhong_Chen_CV.pdf), [Chinese](陈誉中-简历.pdf).
 
 *to be submitted*
 
-[**Project**](https://anonymous.4open.science/r/MOCA-MLLM-1D89/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Propose Multimodal Order-aware Controlled Architecture for Multimodal LLMs namely MOCA-MLLM, and conduct a large-scale, controlled study on how modality injection order affects fine-tuning behavior and performance in MLLMs.
 </div>
 </div>
