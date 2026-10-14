@@ -20,7 +20,7 @@ I am Yuzhong Chen, currently on a gap year. My research interests include Natura
 
 I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean of School of Computer Science and Informatics, University of Liverpool\). I am in close collaboration with [Asst. Prof. Qiyi Tang](https://sites.google.com/view/qiyitang/), [Asst. Prof. Tulika Saha](https://sahatulika15.github.io) and [Prof. Danushka Bollegala](https://danushka.net) \(University of Liverpool\).
 
-CV available at [English](Yuzhong_Chen_CV.pdf), [Chinese](陈誉中-简历.pdf). Technical Portfolio available at [View PDF](portfolio.pdf).
+CV available at [English](Yuzhong_Chen_CV.pdf).
 
 <span class='anchor' id='educations'></span>
 # 📖 Educations
@@ -36,6 +36,23 @@ CV available at [English](Yuzhong_Chen_CV.pdf), [Chinese](陈誉中-简历.pdf).
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2027</div><img src='images/paper4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Mixture of Encoders: Efficient Instance-Level Routing for Text Representation Learning]()
+
+**Yuzhong Chen**, Danushka Bollegala<sup>*</sup>
+
+*to be submitted*
+
+[**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose MoEn, a teacher–student framework for instance-level routing among heterogeneous pre-trained text encoders, outperforming fixed-encoder baselines while enabling efficient inference through a lightweight student router.
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2027</div><img src='images/paper4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -43,7 +60,7 @@ CV available at [English](Yuzhong_Chen_CV.pdf), [Chinese](陈誉中-简历.pdf).
 
 **Yuzhong Chen**, Danushka Bollegala<sup>*</sup>
 
-*to be submitted*
+*under review*
 
 [**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - RG-TAIL reveals that synthetic experience is not universally beneficial and introduces a reliability-gated framework to selectively incorporate imagined transitions for more robust learning under data scarcity.
@@ -77,7 +94,7 @@ CV available at [English](Yuzhong_Chen_CV.pdf), [Chinese](陈誉中-简历.pdf).
 
 **Yuzhong Chen**, Tianyuan Tan, Aaryan Antala, Shrey Salaria, Qiyi Tang<sup>*</sup>, Tulika Saha<sup>*</sup>
 
-*to be submitted*
+*under review*
 
 [**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Propose Multimodal Order-aware Controlled Architecture for Multimodal LLMs namely MOCA-MLLM, and conduct a large-scale, controlled study on how modality injection order affects fine-tuning behavior and performance in MLLMs.
