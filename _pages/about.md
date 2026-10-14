@@ -213,7 +213,7 @@ CV is available at [CV.pdf](Yuzhong_Chen_CV.pdf).
 
 # 🌍 Visitors
 
-<div style="width:300px; margin:auto;">
+<div style="width:260px; margin:auto;">
 <script type="text/javascript" id="mmvst_globe"
 src="//mapmyvisitors.com/globe.js?d=igqbhfL51dWtuuIRx0aNnun8WwZUU-TBvo_wjjFBDiI">
 </script>
