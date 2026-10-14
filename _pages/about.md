@@ -37,7 +37,7 @@ CV available at [English](Yuzhong_Chen_CV.pdf).
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2027</div><img src='images/paper4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2027</div><img src='images/paper5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Mixture of Encoders: Efficient Instance-Level Routing for Text Representation Learning]()
