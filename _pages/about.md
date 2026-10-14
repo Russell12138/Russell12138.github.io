@@ -32,7 +32,7 @@ CV is available at [CV.pdf](Yuzhong_Chen_CV.pdf).
 - *2026.07* Dean's List, University of Liverpool
 - *2026.07* Computer Science Departmental Prize, University of Liverpool
 - *2025.06* EPSRC-funded Summer Research Assistantship, University of Liverpool
-- *2024.10* XJTLU Excellence Award (UoL Tuition Fee Discount: £7000 per year)
+- *2024.10* XJTLU Excellence Award (UoL Scholarship: £7000 per year)
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
