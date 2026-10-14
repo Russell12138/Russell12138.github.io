@@ -149,8 +149,8 @@ CV is available at [CV.pdf](Yuzhong_Chen_CV.pdf).
   </div>
 
   <div style="flex:1; text-align:left;">
-    <strong>UBTech Robotics Research Institute</strong><br>
-    <em>Embodied Foundation Model Department Intern</em><br>
+    <strong>UBTech Robotics, Research Institute</strong><br>
+    <em>Foundation Model Algorithm Engineer</em><br>
     <span style="color:#555;"><em>2026.09 – Now</em></span>
   </div>
 
