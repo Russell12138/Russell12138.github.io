@@ -20,7 +20,7 @@ I am Yuzhong Chen, currently on a gap year. My research interests include Natura
 
 I am supervised by [Prof. Boris Konev](https://www.csc.liv.ac.uk/~konev/) \(Dean of School of Computer Science and Informatics, University of Liverpool\). I am in close collaboration with [Asst. Prof. Qiyi Tang](https://sites.google.com/view/qiyitang/), [Asst. Prof. Tulika Saha](https://sahatulika15.github.io) and [Prof. Danushka Bollegala](https://danushka.net) \(University of Liverpool\).
 
-CV available at [English](Yuzhong_Chen_CV.pdf).
+CV is available at [Yuzhong_Chen_CV.pdf](Yuzhong_Chen_CV.pdf).
 
 <span class='anchor' id='educations'></span>
 # 📖 Educations
